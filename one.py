@@ -1,2 +1,3 @@
-print("hello would")
-print("Hi Saikrishna ")
+def add(a,b):
+    return a+b,a*b
+print(add(24,12))
